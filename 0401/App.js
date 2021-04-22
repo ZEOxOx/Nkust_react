@@ -1,4 +1,4 @@
-/*Class*/
+/*App-Class*/
 
 import React from 'react';
 
