@@ -1,4 +1,4 @@
-/*Function*/
+/*App-Function*/
 
 import React from 'react';
 //import ReactDOM from 'react-dom'; -> 不需要
